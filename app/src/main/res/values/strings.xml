@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Project Three-CS360</string>
+    <string name="title_activity_main">Main Activity</string>
+    <string name="title_activity_data_display">Data Display</string>
+    <string name="title_activity_sms_permission">SMS Permission</string>
+</resources>
